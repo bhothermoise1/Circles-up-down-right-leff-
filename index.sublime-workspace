@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"s",
+				"scaleY()\ttransform"
+			],
+			[
+				"trr",
+				"transform\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmou",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmo",
+				"onmouseover\tAttr"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"ani",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"FL",
+				"float\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"e",
+				"E-mail"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backr",
+				"background\tproperty"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"co",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"tEX",
+				"text-decoration\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"l",
+				"list-style\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"anima",
+				"animation\tproperty"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"g",
+				"grado"
+			],
+			[
+				"per",
+				"periodo"
+			],
+			[
+				"peri",
+				"periodo"
+			],
+			[
+				"perido",
+				"periodo_grado"
+			],
+			[
+				"bol",
+				"bol_est_secre"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"anni",
+				"animation-duration\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"an",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"con",
+				"align-content\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"ano",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"j",
+				"justify-all\ttext-align"
+			],
+			[
+				"tRA",
+				"transition\tproperty"
+			],
+			[
+				"f",
+				"flex\tdisplay"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"nav",
+				"nav-link \tBootstrap 4 Class"
+			],
+			[
+				"chec",
+				"check"
+			],
+			[
+				"ic",
+				"icon_check1"
+			],
+			[
+				"check",
+				"check_bg1"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"z",
+				"translateZ()\ttransform"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"imge",
+				"background-image\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"ini",
+				"infinite\tanimation-iteration-count"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"inle",
+				"inline-block\tdisplay"
+			],
+			[
+				"txe",
+				"text-decoration\tproperty"
+			],
+			[
+				"bla",
+				"background-color\tproperty"
+			],
+			[
+				"gris-",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"mx",
+				"max-width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sl",
+				"slider"
+			],
+			[
+				"sli",
+				"slide1"
+			],
+			[
+				"btn-or",
+				"btn-outline-warning \tBootstrap 4 Class"
+			],
+			[
+				"pass",
+				"passA"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"bg-in",
+				"bg-warning \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ca",
+				"carousel \tBootstrap 4 Class"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"password",
+				"password_hash"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"num",
+				"m_numrows"
+			],
+			[
+				"com",
+				"comprobacion_password"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"compro",
+				"comprobacion_del_nombre"
+			],
+			[
+				"nombr",
+				"nombredeusuario"
+			],
+			[
+				"ms",
+				"msql_error"
+			],
+			[
+				"msq",
+				"msql_connect"
+			],
+			[
+				"regi",
+				"registro_asistencia"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+			"nodejs",
+			"console.log ('hola');",
+			"nodejs",
+			"node -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MOISES/Desktop/Web Developed/SimpleWebSite -II/css/estilos.css",
+		"/C/Users/MOISES/Desktop/Web Developed/SimpleWebSite -II/index.html",
+		"/C/Users/MOISES/Desktop/Web Developed/SimpleWebSite -II/js/main.js",
+		"/C/Users/MOISES/Desktop/Web Developed/web8/js/main.js",
+		"/C/Users/MOISES/Desktop/Web Developed/web8/css/estilos.css",
+		"/C/Users/MOISES/Desktop/Web Developed/web8/index.html",
+		"/C/wamp/www/app-master/index.html",
+		"/C/wamp/www/app-master/vistas/up_in_ob_admin.php",
+		"/C/Users/MOISES/Desktop/Web Developed/web7/js/main.js",
+		"/C/Users/MOISES/Desktop/Web Developed/web6/js/main.js",
+		"/C/wamp/www/app-master/vistas/bol_est_pres_secre.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_up_user_secre.php",
+		"/C/wamp/www/app-master/vistas/in_asistencia_personal_admin.php",
+		"/C/wamp/www/app-master/procesos/registro_asistencia_admin.php",
+		"/C/wamp/www/app-master/procesos/up_user_secre.php",
+		"/C/wamp/www/app-master/vistas/bus_user_secre.php",
+		"/C/wamp/www/app-master/vistas/admin_ico_bol.php",
+		"/C/wamp/www/app-master/vistas/up_pres_admin.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_up_teacher_secre.php",
+		"/C/wamp/www/app-master/procesos/update_teacher_secre.php",
+		"/C/wamp/www/app-master/procesos/up_pres_secre.php",
+		"/C/wamp/www/app-master/vistas/upda_pres_secre.php",
+		"/C/wamp/www/app-master/vistas/bus_pres_secre.php",
+		"/C/wamp/www/app-master/vistas/preescolar/pdf/reportepreescolar.php",
+		"/C/wamp/www/app-master/vistas/periodo_escolar_ico_admin.php",
+		"/C/wamp/www/app-master/vistas/bus_pe_periodo.php",
+		"/C/wamp/www/app-master/procesos/eliminar_periodo.php",
+		"/C/wamp/www/app-master/procesos/insert_periodo.php",
+		"/C/wamp/www/app-master/vistas/up_in_ob_secre.php",
+		"/C/wamp/www/app-master/vistas/in_ob.php",
+		"/C/wamp/www/app-master/vistas/up_periodo.php",
+		"/C/wamp/www/app-master/procesos/update_periodo.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_periodo.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_periodo_update.php",
+		"/C/wamp/www/app-master/vistas/includes/menu-principal.php",
+		"/C/wamp/www/app-master/vistas/in_pro_secre.php",
+		"/C/wamp/www/app-master/vistas/in_ob_secre.php",
+		"/C/wamp/www/app-master/vistas/secre_vista.php",
+		"/C/wamp/www/app-master/procesos/registro_asistencia.php",
+		"/C/wamp/www/app-master/vistas/bol_est_secre.php",
+		"/C/wamp/www/app-master/css/nav.css",
+		"/C/wamp/www/app-master/vistas/upd_pro_secre.php",
+		"/C/wamp/www/app-master/procesos/up_pres_admin.php",
+		"/C/wamp/www/app-master/vistas/upda_pres_admin.php",
+		"/C/wamp/www/app-master/procesos/update_alum_secre.php",
+		"/C/wamp/www/app-master/procesos/update_alum_admin.php",
+		"/C/wamp/www/app-master/vistas/secre_admin_bol.php",
+		"/C/wamp/www/app-master/vistas/secre.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_delete_teacher_secre.php",
+		"/C/wamp/www/app-master/vistas/bus_est_secre.php",
+		"/C/wamp/www/app-master/vistas/eliminar_secre.php",
+		"/C/wamp/www/app-master/vistas/eliminar.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_in_secre_pres.php",
+		"/C/wamp/www/app-master/vistas/preescolar/pdf/reporteprofesionales.php",
+		"/C/wamp/www/app-master/vistas/includes/menu-secretaria.php",
+		"/C/wamp/www/app-master/vistas/bol_est.php",
+		"/C/wamp/www/app-master/login.php",
+		"/C/wamp/www/app-master/registro_usuario.php",
+		"/C/wamp/www/app-master/vistas/in_pres_secre.php",
+		"/C/wamp/www/app-master/procesos/eliminar_secre_pe.php",
+		"/C/wamp/www/app-master/procesos/insert_pres_secre.php",
+		"/C/wamp/www/app-master/vistas/bus_pe_secre.php",
+		"/C/wamp/www/app-master/login_vista.php",
+		"/C/wamp/www/app-master/vistas/upd_pro.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_in_pri_admin.php",
+		"/C/wamp/www/app-master/procesos/insert_teacher.php",
+		"/C/wamp/www/app-master/vistas/admin.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_delete_secre_user.php",
+		"/C/wamp/www/app-master/vistas/msvalidar_asistencia_admin.php",
+		"/C/wamp/www/app-master/vistas/user_kind.php",
+		"/C/wamp/www/app-master/vistas/A-estudiantes/pdf/reporteprofesionales.php",
+		"/C/Users/MOISES/Desktop/Web Developed/formatospdf/index.html",
+		"/C/wamp/www/app-master/vistas/bus_est.php",
+		"/C/wamp/www/app-master/vistas/bus_pres_admin_ico.php",
+		"/C/wamp/www/app-master/vistas/bus_pe.php",
+		"/C/wamp/www/app-master/vistas/in_pro.php",
+		"/C/wamp/www/app-master/vistas/estudiantes/pdf/reporteprofesionales.php",
+		"/C/wamp/www/app-master/vistas/admin_ico_per.php",
+		"/C/wamp/www/app-master/pdf/reporteprofesionales.php",
+		"/C/wamp/www/app-master/front page/css/front.css",
+		"/C/wamp/www/app-master/choose_user.php",
+		"/C/wamp/www/app-master/vistas/periodo.php",
+		"/C/wamp/www/app-master/vistas/reporte_asistencias_admin.php",
+		"/C/wamp/www/app-master/vistas/in_asistencia_personal.php",
+		"/C/wamp/www/app-master/vistas/in_pres_admin.php",
+		"/C/Users/MOISES/Desktop/Web Developed/web3/css/estilos.css",
+		"/C/Users/MOISES/Desktop/Web Developed/web3/index.html",
+		"/C/Users/MOISES/Desktop/Web Developed/web4/css/estilos.css",
+		"/C/Users/MOISES/Desktop/Web Developed/card hover/estilos.css",
+		"/C/Users/MOISES/Desktop/Web Developed/slidercss/css/slider.css",
+		"/C/Users/MOISES/Desktop/Web Developed/galeria images/css/estilos.css",
+		"/C/Users/MOISES/Desktop/Web Developed/Carusel/css/estilos.css",
+		"/C/wamp/www/app/login.php",
+		"/C/wamp/www/app/vistas/in_ob_secre.php",
+		"/C/wamp/www/app/vistas/in_pres_secre.php",
+		"/C/wamp/www/app/vistas/admin_ico_bol.php",
+		"/C/wamp/www/app/vistas/bus_pe_secre.php",
+		"/C/wamp/www/app/vistas/bus_pres_secre.php",
+		"/C/wamp/www/app/vistas/secre.php",
+		"/C/wamp/www/app/vistas/secre_ico_per.php",
+		"/C/wamp/www/app/vistas/bus_pres_admin.php",
+		"/C/wamp/www/app/vistas/bus_est.php",
+		"/C/wamp/www/app/efecto hover/index.html",
+		"/C/Users/MOISES/Desktop/galeria images/index.html",
+		"/C/Users/MOISES/Desktop/galeria images/css/estilos.css",
+		"/C/Users/MOISES/Desktop/SLIDER/index.html",
+		"/C/wamp/www/app/slide_home/css/slider.css",
+		"/C/wamp/www/app/index.html",
+		"/C/wamp/www/HighChart/conexion.php",
+		"/C/wamp/www/app/vistas/admin_ico_per.php",
+		"/C/wamp/www/app/vistas/periodo.php",
+		"/C/wamp/www/app/vistas/gene_bol.php",
+		"/C/wamp/www/app/vistas/reestablecer.php",
+		"/C/wamp/www/app/vistas/up_user.php",
+		"/C/wamp/www/app/vistas/msvalidar_welcome.php",
+		"/C/wamp/www/app/vistas/msvalidar_up_user_admin.php",
+		"/C/wamp/www/app/procesos/delete_est_secre.php",
+		"/C/wamp/www/app/vistas/msvalidar_delete_secre.php",
+		"/C/wamp/www/app/vistas/in_pro_secre.php",
+		"/C/wamp/www/app/vistas/bus_est_secre.php",
+		"/C/wamp/www/app/login_vista.php",
+		"/C/wamp/www/app/procesos/salir_secre.php",
+		"/C/wamp/www/inventario_zea - copia - copia/validar.php",
+		"/C/wamp/www/inventario_zea - copia - copia/cambiar_clave.php",
+		"/C/wamp/www/inventario_zea - copia - copia/updateDatos.php",
+		"/C/wamp/www/inventario_zea - copia - copia/reestablecer.php",
+		"/C/wamp/www/app/procesos/up_user_doc.php",
+		"/C/wamp/www/app/procesos/eliminar_doc_user.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ActionScript/ActionScript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
